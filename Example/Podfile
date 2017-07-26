@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CamericUtils_Tests' do
+  pod 'CamericUtils', :path => '../'
+  
+  
+end
